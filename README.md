@@ -1,7 +1,7 @@
 # Json Web Token in Nodejs with Expressjs
 
 ## Tutorial
-Simple tutoria to learn authentication with Json Web Tokens !
+Simple tutorial to learn authentication with Json Web Tokens !
 ### https://www.youtube.com/watch?v=XK-LhDTT4UQ&list=PLL0TiOXBeDag4aUucYMa6xo0z98IvCM3l&index=3
 
 
